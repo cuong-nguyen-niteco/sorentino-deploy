@@ -1,0 +1,23 @@
+{
+  "menu": [
+    {
+      "name": "All Bags",
+      "link": "/",
+      "items": []
+    },{
+      "name": "Collections",
+      "link": "/",
+      "items": ["What's New", "Classics", "Gifts"]
+    },{
+      "name": "About",
+      "link": "/about",
+      "items": []
+    },{
+      "name": "Contact",
+      "link": "/contact",
+      "items": []
+    }
+  ]
+
+
+}
