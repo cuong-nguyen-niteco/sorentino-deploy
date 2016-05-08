@@ -15,7 +15,8 @@
     "angular-ui-router": "~0.2.15",
     "animate.css": "~3.4.0",
     "owl-carousel2": "~2.0.0",
-    "headroom.js": "~0.7.0"
+    "headroom.js": "~0.7.0",
+    "ngGallery": "*"
   },
   "devDependencies": {
     "angular-mocks": "~1.5.0"

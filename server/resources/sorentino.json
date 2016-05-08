@@ -1,13 +1,13 @@
 {
   "menu": [
     {
-      "name": "All Bags",
+      "name": "Home",
       "link": "/",
       "items": []
     },{
       "name": "Collections",
       "link": "/",
-      "items": ["What's New", "Classics", "Gifts"]
+      "items": []
     },{
       "name": "About",
       "link": "/about",
@@ -18,6 +18,4 @@
       "items": []
     }
   ]
-
-
 }
