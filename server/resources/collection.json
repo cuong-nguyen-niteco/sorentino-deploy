@@ -2,19 +2,35 @@
   "collections": [
     {
       "id": 1,
-      "name": "What's New"
+      "name": "ALL BAGS"
     },
     {
       "id": 2,
-      "name": "Classics"
+      "name": "MINI BAGS"
     },
     {
       "id": 3,
-      "name": "Gifts"
+      "name": "SWING BAGS"
     },
     {
       "id": 4,
-      "name": "Test"
+      "name": "CLASSIC BAGS"
+    }
+    {
+      "id": 4,
+      "name": "TOTE BAGS"
+    }
+    {
+      "id": 4,
+      "name": "CLUTCH BAGS"
+    }
+    {
+      "id": 4,
+      "name": "SHOULDER BAGS"
+    }
+     {
+      "id": 4,
+      "name": "ACCESSORIES BAGS"
     }
   ]
 }
