@@ -2,35 +2,35 @@
   "collections": [
     {
       "id": 1,
-      "name": "ALL BAGS"
+      "name": "All bags"
     },
     {
       "id": 2,
-      "name": "MINI BAGS"
+      "name": "Mini bags"
     },
     {
       "id": 3,
-      "name": "SWING BAGS"
+      "name": "Swing bags"
     },
     {
       "id": 4,
-      "name": "CLASSIC BAGS"
+      "name": "Classic bags"
     },
     {
       "id": 4,
-      "name": "TOTE BAGS"
+      "name": "Tote bags"
     },
     {
       "id": 4,
-      "name": "CLUTCH BAGS"
+      "name": "Cluth bags"
     },
     {
       "id": 4,
-      "name": "SHOULDER BAGS"
+      "name": "Shoulder bags"
     },
      {
       "id": 4,
-      "name": "ACCESSORIES BAGS"
+      "name": "Accessories bags"
     }
   ]
 }
