@@ -2,10 +2,10 @@
   "products": [
     {
       "id": 1,
-      "name": "Chester",
+      "name": "S022",
       "price": 2000000,
       "description": "Burgundy Texured Goat",
-      "collections": [1, 2],
+      "collections": [1, 7],
       "colors": [
         {
           "name": "Black Calfskin",
