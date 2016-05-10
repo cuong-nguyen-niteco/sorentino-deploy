@@ -8,7 +8,7 @@
       "collections": [1, 7],
       "colors": [
         {
-          "name": "Black Calfskin",
+          "name": "Black",
           "code": "#2B2922",
           "images": [
             "/assets/images/products/S022-01.jpg",
@@ -39,7 +39,7 @@
     {
       "id": 2,
       "name": "Test",
-      "price": 1500000,
+      "price": 2000000,
       "description": "Tui sach sorentino",
       "collections": [1],
       "colors": [
