@@ -38,18 +38,18 @@
 
     {
       "id": 2,
-      "name": "Test",
+      "name": "S013",
       "price": 2000000,
       "description": "Tui sach sorentino",
-      "collections": [1],
+      "collections": [1, 7],
       "colors": [
         {
-          "name": "Black Calfskin",
+          "name": "Black ",
           "code": "#2B2922",
           "images": [
-            "/assets/images/products/tui2.jpg",
+            "/assets/images/products/S013-21.jpg",
             "/assets/images/products/tui1.jpg",
-            "/assets/images/products/tui3.jpg"
+            
           ]
         },
         {
