@@ -43,21 +43,18 @@
       "collections": [1, 7],
       "colors": [
         {
-          "name": "Black",
-          "code": "#2B2922",
+          "name": "Red",
+          "code": "#991111",
           "images": [
-            "/assets/images/products/S010-25.jpg",
-            "/assets/images/products/S022-15.jpg",
-            "/assets/images/products/S022-16.jpg"
+            "/assets/images/products/S010-25.jpg"
           ]
         },
         {
-          "name": "Oak Calfskin",
-          "code": "#422d2c",
+          "name": "Blue",
+          "code": "#1F4F73",
           "images": [
-            "/assets/images/products/tui3.jpg",
-            "/assets/images/products/tui2.jpg",
-            "/assets/images/products/tui1.jpg"
+            "/assets/images/products/S022-16.jpg",
+            "/assets/images/products/S022-16.jpg"
           ]
         }
       ],
