@@ -35,6 +35,36 @@
         "Material": "Etiam elementum massa nibh, vel lacinia lorem imperdiet vel. Nam velit dolor, cursus et interdum quis, euismod mattis mi. Vivamus semper pharetra pulvinar. In ultrices arcu nunc, eu sagittis mi consectetur ut. Curabitur fringilla enim vitae ipsum ullamcorper, et laoreet augue dictum."
       }
     },
+     {
+      "id": 1,
+      "name": "S020",
+      "price": 2000000,
+      "description": "Burgundy Texured Goat",
+      "collections": [1, 2],
+      "colors": [
+        {
+          "name": "RED",
+          "code": "#BA120F",
+          "images": [
+            "/assets/images/products/S020-01.jpg"
+          ]
+        },
+        {
+          "name": "Oak Calfskin",
+          "code": "#422d2c",
+          "images": [
+            "/assets/images/products/tui3.jpg",
+            "/assets/images/products/tui2.jpg",
+            "/assets/images/products/tui1.jpg"
+          ]
+        }
+      ],
+      "spec" : {
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis ornare ipsum. Ut sed molestie diam. Mauris magna mi, pretium at purus id, pulvinar rutrum massa. Proin consequat justo ac lacus interdum, vitae scelerisque urna tincidunt. Donec ac maximus libero, et ultrices est. Curabitur quis cursus ligula, sed mattis ipsum.",
+        "details": "Sed vitae tempus massa, eget congue ligula. Mauris scelerisque egestas enim nec auctor. Ut id nisi mauris. Quisque at metus odio. Sed vestibulum nisi vel elementum ultricies. Aenean id tellus eu nunc varius vestibulum sit amet non mauris. In semper mi arcu, nec commodo ligula varius non. Etiam eu feugiat erat.",
+        "Material": "Etiam elementum massa nibh, vel lacinia lorem imperdiet vel. Nam velit dolor, cursus et interdum quis, euismod mattis mi. Vivamus semper pharetra pulvinar. In ultrices arcu nunc, eu sagittis mi consectetur ut. Curabitur fringilla enim vitae ipsum ullamcorper, et laoreet augue dictum."
+      }
+    },
 {
       "id": 3,
       "name": "S010",
