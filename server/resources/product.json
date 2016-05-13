@@ -79,7 +79,6 @@
             "/assets/images/products/S020-01.jpg",
             "/assets/images/products/S020-02.jpg",
             "/assets/images/products/S020-03.jpg",
-            "/assets/images/products/S020-14.jpg",
             "/assets/images/products/S020-17.jpg",
             "/assets/images/products/S020-26.jpg"
           ]
@@ -98,8 +97,8 @@
           "name": "Bright blue",
           "code": "#204C79",
           "images": [
-            "/assets/images/products/S020-14.jpg",
             "/assets/images/products/S020-17.jpg",
+            "/assets/images/products/S020-14.jpg",
             "/assets/images/products/S020-01.jpg",
             "/assets/images/products/S020-26.jpg"
           ]
