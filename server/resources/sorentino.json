@@ -17,5 +17,6 @@
       "link": "/contact",
       "items": []
     }
-  ]
+  ],
+  "homeBanner" : "/assets/images/main/banner.png"
 }
