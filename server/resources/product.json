@@ -36,9 +36,9 @@
       }
     },
      {
-      "id": 1,
+      "id": 4,
       "name": "S020",
-      "price": 2000000,
+      "price": 1600000,
       "description": "Burgundy Texured Goat",
       "collections": [1, 2],
       "colors": [
