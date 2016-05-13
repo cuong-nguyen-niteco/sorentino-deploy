@@ -29,7 +29,7 @@ require('./config/express').default(app);
 require('./routes').default(app);
 
 var mongoose = require('mongoose');
-var mongoUri = _environment2.default.mongoURI;
+var mongoUri = process.env.mongoURI || _environment2.default.mongoURI;
 // Connect mongo
 mongoose.connect(mongoUri);
 var db = mongoose.connection;
