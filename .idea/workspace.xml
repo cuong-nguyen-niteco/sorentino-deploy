@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e7d5882-c871-428a-b563-36e299f0e9a6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/index.html" afterPath="$PROJECT_DIR$/client/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/api/product/index.js" afterPath="$PROJECT_DIR$/server/api/product/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/api/product/product.controller.js" afterPath="$PROJECT_DIR$/server/api/product/product.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/api/product/product.model.js" afterPath="$PROJECT_DIR$/server/api/product/product.model.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/app.js" afterPath="$PROJECT_DIR$/server/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/config/environment/development.js" afterPath="$PROJECT_DIR$/server/config/environment/development.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/config/environment/index.js" afterPath="$PROJECT_DIR$/server/config/environment/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/config/environment/production.js" afterPath="$PROJECT_DIR$/server/config/environment/production.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/resources/collection.json" afterPath="$PROJECT_DIR$/server/resources/collection.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/resources/product.json" afterPath="$PROJECT_DIR$/server/resources/product.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/resources/sorentino.json" afterPath="$PROJECT_DIR$/server/resources/sorentino.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/routes.js" afterPath="$PROJECT_DIR$/server/routes.js" />
-    </list>
+    <list default="true" id="8e7d5882-c871-428a-b563-36e299f0e9a6" name="Default" comment="" />
     <ignored path="sorentino-deploy.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

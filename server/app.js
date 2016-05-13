@@ -28,6 +28,7 @@ var server = _http2.default.createServer(app);
 require('./config/express').default(app);
 require('./routes').default(app);
 
+/*
 var mongoose = require('mongoose');
 var mongoUri = process.env.mongoURI || _environment2.default.mongoURI;
 // Connect mongo
@@ -38,7 +39,7 @@ db.on('error', console.error.bind(console, 'DB connection error: ' + mongoUri));
 db.once('open', function () {
   console.log('DB connection success! ' + mongoUri);
 });
-
+*/
 // Start server
 function startServer() {
   app.angularFullstack = server.listen(_environment2.default.port, _environment2.default.ip, function () {
