@@ -35,6 +35,36 @@
         "Material": "Etiam elementum massa nibh, vel lacinia lorem imperdiet vel. Nam velit dolor, cursus et interdum quis, euismod mattis mi. Vivamus semper pharetra pulvinar. In ultrices arcu nunc, eu sagittis mi consectetur ut. Curabitur fringilla enim vitae ipsum ullamcorper, et laoreet augue dictum."
       }
     },
+  {
+      "id": 5,
+      "name": "S020 mini",
+      "price": 1000000,
+      "description": "Burgundy Texured Goat",
+      "collections": [1, 2],
+      "colors": [
+        {
+          "name": "RED",
+          "code": "#B51714",
+          "images": [
+            "/assets/images/products/S020mini-01.jpg",
+            "/assets/images/products/S020mini-02.jpg"
+          ]
+        },
+        {
+          "name": "Oak Calfskin",
+          "code": "#BD5154",
+          "images": [
+            "/assets/images/products/S020mini-01.jpg",
+            "/assets/images/products/S020mini-02.jpg"
+          ]
+        }
+      ],
+      "spec" : {
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis ornare ipsum. Ut sed molestie diam. Mauris magna mi, pretium at purus id, pulvinar rutrum massa. Proin consequat justo ac lacus interdum, vitae scelerisque urna tincidunt. Donec ac maximus libero, et ultrices est. Curabitur quis cursus ligula, sed mattis ipsum.",
+        "details": "Sed vitae tempus massa, eget congue ligula. Mauris scelerisque egestas enim nec auctor. Ut id nisi mauris. Quisque at metus odio. Sed vestibulum nisi vel elementum ultricies. Aenean id tellus eu nunc varius vestibulum sit amet non mauris. In semper mi arcu, nec commodo ligula varius non. Etiam eu feugiat erat.",
+        "Material": "Etiam elementum massa nibh, vel lacinia lorem imperdiet vel. Nam velit dolor, cursus et interdum quis, euismod mattis mi. Vivamus semper pharetra pulvinar. In ultrices arcu nunc, eu sagittis mi consectetur ut. Curabitur fringilla enim vitae ipsum ullamcorper, et laoreet augue dictum."
+      }
+    },
      {
       "id": 4,
       "name": "S020",
