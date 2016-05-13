@@ -8,72 +8,27 @@
       "collections": [1, 2],
       "colors": [
         {
-          "name": "Red",
-          "code": "#BA120F",
+          "name": "Black Calfskin",
+          "code": "#2B2922",
           "images": [
-            "/assets/images/products/S020-01.jpg",
-            "/assets/images/products/S020-02.jpg",
-            "/assets/images/products/S020-03.jpg",
-            "/assets/images/products/S020-17.jpg",
-            "/assets/images/products/S020-26.jpg"
+            "/assets/images/products/tui1.jpg",
+            "/assets/images/products/tui2.jpg",
+            "/assets/images/products/tui3.jpg"
           ]
         },
         {
-          "name": "Brown",
-          "code": "#49201D",
+          "name": "Oak Calfskin",
+          "code": "#422d2c",
           "images": [
-            "/assets/images/products/S020-26.jpg",
-            "/assets/images/products/S020-27.jpg",
-            "/assets/images/products/S020-28.jpg",
-            "/assets/images/products/S020-29.jpg"
-          ]
-        },
-        {
-          "name": "Bright blue",
-          "code": "#204C79",
-          "images": [
-            "/assets/images/products/S020-17.jpg",
-            "/assets/images/products/S020-14.jpg",
-            "/assets/images/products/S020-01.jpg",
-            "/assets/images/products/S020-26.jpg"
+            "/assets/images/products/tui3.jpg",
+            "/assets/images/products/tui2.jpg",
+            "/assets/images/products/tui1.jpg"
           ]
         }
       ],
       "spec" : {
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis ornare ipsum. Ut sed molestie diam. Mauris magna mi, pretium at purus id, pulvinar rutrum massa. Proin consequat justo ac lacus interdum, vitae scelerisque urna tincidunt. Donec ac maximus libero, et ultrices est. Curabitur quis cursus ligula, sed mattis ipsum.",
         "details": "Sed vitae tempus massa, eget congue ligula. Mauris scelerisque egestas enim nec auctor. Ut id nisi mauris. Quisque at metus odio. Sed vestibulum nisi vel elementum ultricies. Aenean id tellus eu nunc varius vestibulum sit amet non mauris. In semper mi arcu, nec commodo ligula varius non. Etiam eu feugiat erat.",
-        "material": "Etiam elementum massa nibh, vel lacinia lorem imperdiet vel. Nam velit dolor, cursus et interdum quis, euismod mattis mi. Vivamus semper pharetra pulvinar. In ultrices arcu nunc, eu sagittis mi consectetur ut. Curabitur fringilla enim vitae ipsum ullamcorper, et laoreet augue dictum."
-      }
-    },
-{
-      "id": 3,
-      "name": "S010",
-      "price": 1800000,
-      "description": "Burgundy Texured Goat",
-      "collections": [1, 7],
-      "colors": [
-        {
-          "name": "Red",
-          "code": "#991111",
-          "images": [
-            "/assets/images/products/S010-25.jpg",
-            "/assets/images/products/S010-15.jpg",
-            "/assets/images/products/S010-16.jpg"
-          ]
-        },
-        {
-          "name": "Blue",
-          "code": "#1F4F73",
-          "images": [
-            "/assets/images/products/S010-15.jpg",
-            "/assets/images/products/S010-16.jpg",
-            "/assets/images/products/S010-25.jpg"
-          ]
-        }
-      ],
-      "spec" : {
-        "description": "S010 là một trong những sản phẩm bán chạy nhất tại Sorentino với thiết kế độc đáo, đơn giản, sang trọng phù hợp với mọi lứa tuổi.Được làm bằng da bò nguyên miếng cao cấp bền đẹp, bên trong túi được lót một lớp da cừu mềm mại tăng sự thẩm mĩ, nâng cao chất lượng cho sản phẩm, có khóa mép và ngăn kéo phía trong túi.",
-        "details": "Chiều cao 19cm ,Chiều ngang 27 cm ,Chiều rộng 11 cm.",
         "material": "Etiam elementum massa nibh, vel lacinia lorem imperdiet vel. Nam velit dolor, cursus et interdum quis, euismod mattis mi. Vivamus semper pharetra pulvinar. In ultrices arcu nunc, eu sagittis mi consectetur ut. Curabitur fringilla enim vitae ipsum ullamcorper, et laoreet augue dictum."
       }
     },
