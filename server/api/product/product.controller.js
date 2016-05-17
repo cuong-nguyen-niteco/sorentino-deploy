@@ -14,9 +14,9 @@ exports.editProduct = editProduct;
 exports.findProductById = findProductById;
 exports.deleteProduct = deleteProduct;
 
-var _Product = require('./product.model');
+var _product = require('./product.model');
 
-var _Product2 = _interopRequireDefault(_Product);
+var _product2 = _interopRequireDefault(_product);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -27,7 +27,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
  */
 
 function getProducts(req, res) {
-  _Product2.default.find(function (err, data) {
+  _product2.default.find(function (err, data) {
     res.json({ err: err, data: data });
   });
 }
@@ -41,25 +41,25 @@ function addProduct(req, res) {
     colors: req.body.colors,
     spec: req.body.spec
   };
-  _Product2.default.create(product, function (err, data) {
+  _product2.default.create(product, function (err, data) {
     return res.json({ err: err, data: data });
   });
 }
 
 function editProduct(req, res) {
-  _Product2.default.findByIdAndUpdate(req.body.product._id, req.body.product, function (err, product) {
+  _product2.default.findByIdAndUpdate(req.body.product._id, req.body.product, function (err, product) {
     res.json({ err: err, product: product });
   });
 }
 
 function findProductById(req, res) {
-  _Product2.default.findById(req.params.id, function (err, product) {
+  _product2.default.findById(req.params.id, function (err, product) {
     return res.json({ err: err, product: product });
   });
 }
 
 function deleteProduct(req, res) {
-  _Product2.default.findByIdAndRemove(req.body.product._id, function (err, product) {
+  _product2.default.findByIdAndRemove(req.body.product._id, function (err, product) {
     res.json({ err: err, product: product });
   });
 }
