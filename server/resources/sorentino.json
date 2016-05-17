@@ -1,22 +1,27 @@
 {
-  "menu": [
-    {
-      "name": "Home",
-      "link": "/",
-      "items": []
-    },{
-      "name": "Collections",
-      "link": "/",
-      "items": []
-    },{
-      "name": "About",
-      "link": "/about",
-      "items": []
-    },{
-      "name": "Contact",
-      "link": "/contact",
-      "items": []
-    }
-  ],
+  "menu": {
+    "left": [
+      {
+        "name": "Home",
+        "link": "/",
+        "items": []
+      },{
+        "name": "Collections",
+        "link": "/",
+        "items": []
+      }
+    ],
+    "right": [
+      {
+        "name": "About",
+        "link": "/about",
+        "items": []
+      },{
+        "name": "Contact",
+        "link": "/contact",
+        "items": []
+      }
+    ]
+  },
   "homeBanner" : "/assets/images/main/banner.png"
 }
