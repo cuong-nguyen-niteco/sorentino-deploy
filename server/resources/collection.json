@@ -2,15 +2,35 @@
   "collections": [
     {
       "id": 1,
-      "name": "What's New"
+      "name": "All bags"
     },
     {
       "id": 2,
-      "name": "Classics"
+      "name": "Mini bags"
     },
     {
       "id": 3,
-      "name": "Gifts"
+      "name": "Swing bags"
+    },
+    {
+      "id": 4,
+      "name": "Classic bags"
+    },
+    {
+      "id": 5,
+      "name": "Tote bags"
+    },
+    {
+      "id": 6,
+      "name": "Cluth bags"
+    },
+    {
+      "id": 7,
+      "name": "Shoulder bags"
+    },
+    {
+      "id": 8,
+      "name": "Accessories bags"
     }
   ]
 }
