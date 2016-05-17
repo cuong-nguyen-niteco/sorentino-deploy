@@ -39,7 +39,8 @@ function addProduct(req, res) {
     description: req.body.description,
     collections: req.body.collections,
     colors: req.body.colors,
-    spec: req.body.spec
+    spec: req.body.spec,
+    priority: req.body.priority
   };
   _product2.default.create(product, function (err, data) {
     return res.json({ err: err, data: data });

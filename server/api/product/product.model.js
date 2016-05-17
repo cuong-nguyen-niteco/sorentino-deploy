@@ -29,7 +29,8 @@ var ProductSchema = _mongoose2.default.Schema({
     description: String,
     details: String,
     material: String
-  }
+  },
+  priority: { type: Number, default: 0 }
 });
 
 exports.default = _mongoose2.default.model('Product', ProductSchema);

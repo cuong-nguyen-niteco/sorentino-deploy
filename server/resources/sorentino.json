@@ -14,11 +14,11 @@
     "right": [
       {
         "name": "About",
-        "link": "/about",
+        "link": "/about-us",
         "items": []
       },{
         "name": "Contact",
-        "link": "/contact",
+        "link": "/contact-us",
         "items": []
       }
     ]
