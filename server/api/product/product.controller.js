@@ -14,7 +14,7 @@ exports.editProduct = editProduct;
 exports.findProductById = findProductById;
 exports.deleteProduct = deleteProduct;
 
-var _Product = require('./product.model');
+var _Product = require('./Product.model');
 
 var _Product2 = _interopRequireDefault(_Product);
 
