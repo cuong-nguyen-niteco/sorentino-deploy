@@ -26,5 +26,18 @@
   "home" : {
     "banner" : "/assets/images/main/banner.jpg",
     "description": "What's your style? Find your perfect bag from our selection of shoulder bags, satchels, totes and more."
-  }
+  },
+  "banners" : [
+    {
+      "color": "#154867",
+      "image": "/assets/images/banners/1.jpg",
+      "title": "All Bags",
+      "link": "/collection/1"
+    },{
+      "color": "#49201C",
+      "image": "/assets/images/banners/2.jpg",
+      "title": "Mini Bags",
+      "link": "/collection/2"
+    }
+  ]
 }
