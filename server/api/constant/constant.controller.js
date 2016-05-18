@@ -8,7 +8,7 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.getMenu = getMenu;
+exports.getConstant = getConstant;
 exports.getCollection = getCollection;
 exports.getAllProduct = getAllProduct;
 exports.getProduct = getProduct;
@@ -36,7 +36,7 @@ var constant = JSON.parse(_fs2.default.readFileSync(CONSTANT_FILE, 'utf8'));
 var product = JSON.parse(_fs2.default.readFileSync(PRODUCT_FILE, 'utf8'));
 var collection = JSON.parse(_fs2.default.readFileSync(COLLECTION_FILE, 'utf8'));
 
-function getMenu(req, res) {
+function getConstant(req, res) {
   res.json(constant);
 }
 

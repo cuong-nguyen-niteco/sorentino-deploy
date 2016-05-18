@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Chester",
       "price": 2000000,
-      "description": "Burgundy Texured Goat q",
+      "description": "Burgundy Texured Goat",
       "collections": [1, 2],
       "colors": [
         {

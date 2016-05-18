@@ -5,7 +5,7 @@ var controller = require('./constant.controller');
 
 var router = express.Router();
 
-router.get('/menu', controller.getMenu);
+router.get('/', controller.getConstant);
 router.get('/collection', controller.getCollection);
 router.get('/product', controller.getAllProduct);
 router.get('/product/:id', controller.getProduct);
